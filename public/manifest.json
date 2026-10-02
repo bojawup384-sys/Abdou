@@ -1,0 +1,35 @@
+{
+  "name": "AdCraft AI — استوديو الإعلانات بالذكاء الاصطناعي",
+  "short_name": "AdCraft AI",
+  "description": "حزمة إعلانية متكاملة بالذكاء الاصطناعي: خطافات، نصوص، سكريبت فيديو، وبرومبتات صور.",
+  "lang": "ar",
+  "dir": "rtl",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF8F2",
+  "theme_color": "#FF4D2E",
+  "categories": ["business", "productivity", "marketing"],
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
